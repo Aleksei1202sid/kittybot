@@ -3,7 +3,7 @@ import requests
 from telebot import TeleBot
 
 
-bot = TeleBot(token='7633346829:AAFDFaK2gzulWb9YanoSbzQIY5sIOvI_dSU')
+bot = TeleBot(token='7633346829:AAF')
 # Адрес API сохраним в константе:
 URL = 'https://api.thecatapi.com/v1/images/search'  
 chat_id = 1441970486
